@@ -1,6 +1,9 @@
 # Arrays
 Basic Thirteen Algorithms 
 
+
+******This was a quick guide to bush up on syntax for python3 switching from   javascript*******
+
 ## Basic Thirteen Algos
 These Algorithms just go over the basic understanding of:
     - for loops
@@ -8,7 +11,6 @@ These Algorithms just go over the basic understanding of:
     - return and print statements
     - declearing variables
 
-******This was a quick guide to bush up on syntax for python3 switching from   javascript*******
 
 ### Print 1 to 255
 Using a basic For Loop to print out integers from 1 to 255
